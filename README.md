@@ -40,29 +40,12 @@ Building scalable backend systems, data pipelines, and intelligent platforms tha
 
 ---
 
-## 🚧 Featured Projects
-
-| Project | Description | Link |
-|-------|------------|------|
-| High Concurrency Telemetry Service | Lock free backend service processing high volume telemetry with hundreds of concurrent threads | [GitHub](https://github.com/YOUR_USERNAME/REPO) |
-| Ticket Booking Platform | Scalable backend system with caching, autoscaling, and cloud deployment | [GitHub](https://github.com/YOUR_USERNAME/REPO) |
-| Fake Review Detection | Machine learning pipeline to classify synthetic vs human written reviews | [GitHub](https://github.com/YOUR_USERNAME/REPO) |
-| Computer Vision Service | Real time inference service for distraction detection using ML pipelines | [GitHub](https://github.com/YOUR_USERNAME/REPO) |
-
----
-
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
-
----
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://YOUR_PORTFOLIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/ay-chy-z21/))
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:aytchsh@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://ayushchoudharydev.github.io/mw/about.html)
 
 ---
 
